@@ -1,5 +1,5 @@
-{
-  "nome": "Gustavo Leão Nogueira de Oliveira",
-  "idade": 21,
-  "facebook": "https://www.facebook.com/gustavo.leao.716"
-}
+[
+    { "nome": "Gustavo Leão Nogueira de Oliveira", "idade": 21, "imagem": "https://www.google.com.br/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiU7Yn-0fDgAhXpH7kGHXhZDooQjRx6BAgBEAU&url=https%3A%2F%2Fgithub.com%2FGustavo-Leao-Nogueira&psig=AOvVaw1LcC_ho6w9ky6f9L-AInFL&ust=1552069066469970" },
+    { "nome": "Marcelo Pereira", "idade": 40, "imagem": "https://www.linkedin.com/start/view-full-profile?_ed=0_718HqhnX7TWAzULtt4ifcZEcRqGDTFUZBRVbL4HnJy_&trk=public_profile_tc-view" },
+    { "nome": "Marieli", "idade" : 20, "imagem": "https://scontent.fpoa8-1.fna.fbcdn.net/v/t1.0-9/48385530_1281887868616794_7984736381022765056_n.jpg?_nc_cat=108&_nc_ht=scontent.fpoa8-1.fna&oh=25a1b2e464c0be2ffe92353ee30def38&oe=5D2756C4" }
+]
