@@ -1,0 +1,5 @@
+[
+    { "nome": "Gustavo Leão Nogueira de Oliveira", "idade": 21, "imagem": "https://scontent.fpoa8-1.fna.fbcdn.net/v/t1.0-9/52457862_2229073170512954_1480673972247855104_n.jpg?_nc_cat=109&_nc_ht=scontent.fpoa8-1.fna&oh=0e82d321670ef791b167c9c47631c361&oe=5D133FB4" },
+    { "nome": "Marcelo Pereira",                   "idade": 40, "imagem": "img/person.jpg" },
+    { "nome": "Marieli",                           "idade": 20, "imagem": "img/person.jpg" }
+]
